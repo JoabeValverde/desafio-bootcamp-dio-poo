@@ -40,3 +40,7 @@ Q.idea/sonarlint/securityhotspotstore/7/1/7131558c44e3da978f6f60561d47035a6d642e
 Q.idea/sonarlint/securityhotspotstore/1/6/16835cede4b7c57c6a16086891099c21cdbbb446,2\6\26db672ee5aa706fd887a792a582be7256ff3787
 Å
 Q.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,3\0\30205a209c6ce77c4cfc19a09e6f57c588b7fb88
+\
+,src/br/com/dio/desafio/dominio/Conteudo.java,0\0\00f56be66a45b21f1ac77502a12514b961838763
+=
+src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
